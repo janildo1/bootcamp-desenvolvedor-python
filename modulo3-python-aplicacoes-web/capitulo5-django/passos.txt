@@ -1,0 +1,14 @@
+pip freeze > requeriments.txt
+Ativando uma virtualenv-> env/Scripts/Activate
+Criando aplicativo-> python manage.py startapp app1
+Iniciando o servidor: python manage.py runserver
+criar migrações do model User -> python manage.py makemigrations
+Aplicando as migrações -> python manage.py migrate
+
+Criar formulário
+
+Testar formulário
+
+Jinja (engine de templates) -> código no template
+
+Bootstrap (css pré pronto)
